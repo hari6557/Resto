@@ -1,0 +1,20 @@
+.nav_content {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: rgb(206, 204, 204);
+  color: rgb(97, 96, 96);
+}
+
+.title {
+  margin-right: auto;
+}
+
+.cart {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.orders {
+  margin-right: -50px;
+}
